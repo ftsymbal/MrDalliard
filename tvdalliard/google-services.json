@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "992652377655",
+    "firebase_url": "https://mrdalliard-888ec.firebaseio.com",
+    "project_id": "mrdalliard-888ec",
+    "storage_bucket": "mrdalliard-888ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992652377655:android:4706f686bb505db4",
+        "android_client_info": {
+          "package_name": "com.mera.dalliardwear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992652377655-fgpgvpt7r0q00336h9oaplhnmetn61ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mera.dalliardwear",
+            "certificate_hash": "f14cfb58cfb302841b51e2f6208203bc4d000eef"
+          }
+        },
+        {
+          "client_id": "992652377655-dv83usid0up1ej8edk1gvi6fo2v98i7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvcbd_6egDXjKynFhwfzmLeY9vfA2LrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992652377655-dv83usid0up1ej8edk1gvi6fo2v98i7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992652377655:android:6593bef2ecebaefc",
+        "android_client_info": {
+          "package_name": "com.mera.mrdalliard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992652377655-9j0m1jssml9v12sjdfoi9bi7t4i2jq9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mera.mrdalliard",
+            "certificate_hash": "2d09df491e78ea5fb5956a574a7a2c642e2981f6"
+          }
+        },
+        {
+          "client_id": "992652377655-dv83usid0up1ej8edk1gvi6fo2v98i7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvcbd_6egDXjKynFhwfzmLeY9vfA2LrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992652377655-dv83usid0up1ej8edk1gvi6fo2v98i7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992652377655:android:121ca0e7bdc1d454",
+        "android_client_info": {
+          "package_name": "com.mera.tsymbal.mrdalliard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992652377655-gjbo50lcugj1nva1ruqt72idqqeam9rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mera.tsymbal.mrdalliard",
+            "certificate_hash": "f14cfb58cfb302841b51e2f6208203bc4d000eef"
+          }
+        },
+        {
+          "client_id": "992652377655-dv83usid0up1ej8edk1gvi6fo2v98i7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvcbd_6egDXjKynFhwfzmLeY9vfA2LrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992652377655-dv83usid0up1ej8edk1gvi6fo2v98i7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992652377655:android:6bcd420355f532e7",
+        "android_client_info": {
+          "package_name": "com.mera.tsymbal.tvdalliard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992652377655-nm081l7e7kiuluaau720g9t0s7ahgfa4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mera.tsymbal.tvdalliard",
+            "certificate_hash": "f14cfb58cfb302841b51e2f6208203bc4d000eef"
+          }
+        },
+        {
+          "client_id": "992652377655-dv83usid0up1ej8edk1gvi6fo2v98i7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvcbd_6egDXjKynFhwfzmLeY9vfA2LrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992652377655-dv83usid0up1ej8edk1gvi6fo2v98i7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

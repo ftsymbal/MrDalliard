@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView android:id="@+id/task_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="CheckedTextView"
+    android:focusable="true"
+    android:textSize = "24sp"
+    android:checked = "false"
+    android:checkMark="@null"
+    android:gravity="center_vertical"
+    android:drawableLeft="?android:attr/listChoiceIndicatorSingle"
+    android:drawableRight="@null"
+    tools:layout_editor_absoluteX="186dp"
+    tools:layout_editor_absoluteY="332dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    />
+    <!--android:checkMark="@drawable/outline_done_outline_black_36"-->

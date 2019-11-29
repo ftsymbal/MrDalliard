@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MR. Dalliard</string>
+    <string name="activated">You\'ve been activated!</string>
+    <string name="rest">Rest your weary elbows, Comrade!</string>
+    <string name="greeting">Good Morning!</string>
+    <string name="code">code</string>
+
+    <string-array name="steps">
+        <item>Fetch false passports</item>
+        <item>Fetch rabbit skin hats</item>
+        <item>Detonate your relatives</item>
+        <item>Fly to Dover</item>
+        <item>Find a man named Smith</item>
+        <item>Take a train delivering livestock to Minsk</item>
+    </string-array>
+
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">Greetings</string>
+
+</resources>

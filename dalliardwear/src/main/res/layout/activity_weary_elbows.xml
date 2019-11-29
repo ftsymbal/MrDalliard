@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wear.widget.BoxInsetLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_grey"
+    app:boxedEdges="all"
+    app:layout_box="all"
+    tools:context=".WearyElbows"
+    tools:deviceIds="wear">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rest your weary elbows, Comrade!"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize = "24sp" />
+
+    <android.support.wear.widget.WearableRecyclerView
+        android:id="@+id/activated_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:clipToPadding="false"
+        android:paddingBottom="70dp"
+        android:paddingTop="70dp"
+        android:visibility="invisible"
+     />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:text="Get Token"/>
+
+</android.support.wear.widget.BoxInsetLayout>
