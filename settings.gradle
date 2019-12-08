@@ -1,1 +1,1 @@
-include ':app', ':dalliardwear', ':dalliardtv', ':tvdalliard', ':dalliardthings'
+include ':app', ':dalliardwear', ':tvdalliard', ':dalliardthings'
